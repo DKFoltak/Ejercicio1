@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="volver">Volver</string>
+    <string name="saltar">Saltar</string>
+    <string name="cargar">Cargar</string>
+    <string name="imagen">imagenFondo</string>
+</resources>
